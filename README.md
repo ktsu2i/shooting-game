@@ -32,7 +32,7 @@ Python 3.9.6
 
 #### For Windows
 
-Go to [here](https://www.python.org/) to install the latest version of Python.
+Go [here](https://www.python.org/) to install the latest version of Python.
 Then, run this following command and check if you installed it successfully.
 
 ```
