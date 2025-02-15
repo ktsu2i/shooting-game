@@ -5,10 +5,16 @@
 ### 1. Clone this repository
 
 ```
-git clone 
+git clone https://github.com/ktsu2i/shooting-game.git
 ```
 
-### 1. Install Python
+Go to the cloned project.
+
+```
+cd shooting-game
+```
+
+### 2. Install Python
 
 #### For Mac
 
@@ -38,7 +44,7 @@ e.g.
 Python 3.9.6
 ```
 
-### 2. Set up for a virtual environment
+### 3. Set up for a virtual environment
 
 If you work on multiple projects in Python, package version conflicts could happen, so it is essential to create a virtual environment for each project to avoid any unexpected errors.
 
@@ -65,13 +71,25 @@ For Mac
 For Windows
 
 ```
-.=\[env name]\Scripts\activate
+.\[env name]\Scripts\activate
 ```
 
-### 3. Install Pygame
+### 4. Install Pygame
 
 ```
 pip install pygame
 ```
 
-### 4. R# shooting-game
+### 5. Run the code
+
+```
+python main.py
+or
+python3 main.py
+```
+
+### 6. Deactivate a virtual environment
+
+```
+deactivate
+```
