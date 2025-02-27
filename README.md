@@ -48,7 +48,7 @@ Python 3.9.6
 
 If you work on multiple projects in Python, package version conflicts could happen, so it is essential to create a virtual environment for each project to avoid any unexpected errors.
 
-After Python 3.3, it comes with the built-in package called `venv`.
+It comes with the built-in package called `venv` in Python 3.3 or later.
 
 #### Create a virtual environment. 
 
