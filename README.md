@@ -1,5 +1,7 @@
 # Shooting Game
 
+It's just a PyGame template for the TUJ On-Campus Mini Hackatthon which TUJ CS Academic Society hosted on March 29, 2025.
+
 ## Set up
 
 ### 1. Clone this repository
